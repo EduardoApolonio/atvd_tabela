@@ -1,0 +1,33 @@
+*{
+    background-color: blueviolet;
+}
+.fds{
+    width: 70%;
+    margin: 10px;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 7px;
+    text-align: center;
+    border: 2px dotted blue;
+}
+
+#sla{
+    background-color: aqua;
+}
+
+.cdd{
+    background-color: lightgreen;
+}
+.almoco{
+    background-color: lightyellow;
+}
+
+.jantar{
+    background-color: lightsalmon;
+}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
